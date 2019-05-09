@@ -1,0 +1,23 @@
+c:\users\talha\documents\visual studio 2015\Projects\Assets\Assets\bin\Debug\Assets.exe.config
+c:\users\talha\documents\visual studio 2015\Projects\Assets\Assets\bin\Debug\Assets.exe
+c:\users\talha\documents\visual studio 2015\Projects\Assets\Assets\bin\Debug\Assets.pdb
+c:\users\talha\documents\visual studio 2015\Projects\Assets\Assets\obj\Debug\Assets.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2015\Projects\Assets\Assets\obj\Debug\Assets.Form1.resources
+c:\users\talha\documents\visual studio 2015\Projects\Assets\Assets\obj\Debug\Assets.Properties.Resources.resources
+c:\users\talha\documents\visual studio 2015\Projects\Assets\Assets\obj\Debug\Assets.csproj.GenerateResource.Cache
+c:\users\talha\documents\visual studio 2015\Projects\Assets\Assets\obj\Debug\Assets.exe
+c:\users\talha\documents\visual studio 2015\Projects\Assets\Assets\obj\Debug\Assets.pdb
+C:\Users\TALHA\documents\visual studio 2015\Projects\Assets\Assets\obj\Debug\Assets.UpdatePerson.resources
+C:\Users\TALHA\Documents\Visual Studio 2015\Projects\Assets\Assets\obj\Debug\Assets.AddStudent.resources
+C:\Users\arslan murad\Desktop\Assets\Assets\bin\Debug\Assets.exe.config
+C:\Users\arslan murad\Desktop\Assets\Assets\bin\Debug\Assets.exe
+C:\Users\arslan murad\Desktop\Assets\Assets\bin\Debug\Assets.pdb
+C:\Users\arslan murad\Desktop\Assets\Assets\obj\Debug\Assets.csprojAssemblyReference.cache
+C:\Users\arslan murad\Desktop\Assets\Assets\obj\Debug\Assets.AddStudent.resources
+C:\Users\arslan murad\Desktop\Assets\Assets\obj\Debug\Assets.UpdatePerson.resources
+C:\Users\arslan murad\Desktop\Assets\Assets\obj\Debug\Assets.Form1.resources
+C:\Users\arslan murad\Desktop\Assets\Assets\obj\Debug\Assets.Properties.Resources.resources
+C:\Users\arslan murad\Desktop\Assets\Assets\obj\Debug\Assets.csproj.GenerateResource.cache
+C:\Users\arslan murad\Desktop\Assets\Assets\obj\Debug\Assets.csproj.CoreCompileInputs.cache
+C:\Users\arslan murad\Desktop\Assets\Assets\obj\Debug\Assets.exe
+C:\Users\arslan murad\Desktop\Assets\Assets\obj\Debug\Assets.pdb
